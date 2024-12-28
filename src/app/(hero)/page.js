@@ -26,7 +26,7 @@ export default function Home() {
     return (
         <Hero
             imgUrl={homeSrc}
-            altContent="hello"
+            altContent="h11ello"
             content="apple!"
         ></Hero>
     );
